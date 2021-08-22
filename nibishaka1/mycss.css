@@ -1,0 +1,114 @@
+.top{
+	color:blue;
+	}
+	.serv
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.new
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.abo
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.eve
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.boo
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.reg
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.log
+	{
+		color:blue;
+		text-decoration:none;
+	}
+	.sub
+	{
+		color:blue;
+		text-decoration:none;
+		border;
+	}
+	.ser 
+	{
+	font-size:30px;
+	color:red;
+	}
+	.opp
+	{
+		font-size:30px;
+		color:blue;
+	}
+	.oppo
+	{
+		font-size:30px;
+		color:blue;
+	}
+	.tab
+	{
+	border: px;
+	width: 100%;
+	height: 100;
+	}
+	.heju
+	{
+	background-color: rosybrown;
+	}
+	.foot
+	{
+	background-color: lawngreen;
+	text-align: left;
+	}
+	
+	img
+	{
+	transition: transform .2s;
+	}
+	img :hover
+	{
+	transform: scale(1.5);
+	}
+	.ali
+	{
+	text-align: left;
+	}
+	.ser0
+	{
+	background-color: cadetblue;
+	color: black;
+	}
+	.ser1
+	{
+	margin-left: 600px;	
+	}
+	.ser2
+	{
+	margin-top: -300px;	
+	}
+	.lis0
+	{
+		margin-right: 700px;
+	}
+	.lis1
+	{
+	margin-top: -570px;
+	background-color: lightcyan;
+	}
+	.regstra
+	{
+		background:lightseagreen;
+	
+	}
